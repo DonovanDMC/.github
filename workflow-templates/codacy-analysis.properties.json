@@ -1,0 +1,5 @@
+{
+  "name": "Codacy Security Scan",
+  "description": "Automated code scans by codacy.",
+  "iconName": "codacy"
+}
